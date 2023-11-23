@@ -79,3 +79,4 @@ describe('calculateNumber', function () {
       chai.expect(calculateNumber('DIVIDE', 1.4, 0)).to.equal('Error');
     });
   });
+});
